@@ -29,6 +29,7 @@ module Oembedr
       /soundcloud\.com/ => 'http://soundcloud.com/oembed',
       /open\.spotify\.com/ => 'https://embed.spotify.com/oembed/',
       /(rdio\.com|rd\.io)/ => 'http://www.rdio.com/api/oembed/',
+      /api\.spreaker\.com/ => 'https://api.spreaker.com/oembed',
 
       # Image
       /(deviantart\.com|fav\.me)/ => 'http://backend.deviantart.com/oembed',
